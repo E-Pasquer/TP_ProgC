@@ -116,6 +116,7 @@ Compilez et exécutez le programme pour obtenir les tailles de ces types de donn
 
 **Attention** : il n'existe pas de versions `unsigned` ou `signed` pour les types de données suivants :
 
+
 - `float`
 - `double`
 - `long double`
